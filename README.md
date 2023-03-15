@@ -1,7 +1,7 @@
 # How to run the above code , Below is the steps to run
 1.Download the Zip Folder & Extract it.
 
-2.Open the Extracted folder where all files are present ,Right click the mouse & click on "Open in Terminal" Option
+2.Open the Extracted folder where all files are present , Right click the mouse & click on "Open in Terminal" Option
 
 3.Run the following Command:      python csv_project.py data.csv
 
