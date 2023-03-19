@@ -9,7 +9,7 @@
 
 5.For example, to calculate the mean of the "age" column in a file called data.csv, we would enter the following command:     mean age
 
-6.For more Command refer this PNG file.
+6.# For more Command refer this PNG file.
 ![Test](https://user-images.githubusercontent.com/84240276/226182756-2e97471b-9d3f-48de-87e2-8067347408ee.png)
 
 7.To exit the program, you would enter:     exit
